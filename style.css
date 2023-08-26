@@ -45,4 +45,8 @@ body {
 }
 .qr-code-content .qr-code-text p {
     color: hsl(220, 15%, 55%);
+    margin-bottom: 10px;
+    padding: 0 3rem;
 }
+
+
