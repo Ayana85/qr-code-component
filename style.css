@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    font-family: 'Outfit', sans-serif;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.card-container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.qr-code-content {
+    background-color: hsl(0, 0%, 100%);
+    padding: 1.1rem;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+.qr-code-content .qr-code-img {
+    /* max-width: 100%; */
+    margin-bottom: 20px;
+    
+}
+.qr-code-content .qr-code-img img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.qr-code-content .qr-code-text {
+    text-align: center;
+}
+.qr-code-content .qr-code-text h3 {
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+.qr-code-content .qr-code-text p {
+    color: hsl(220, 15%, 55%);
+}
