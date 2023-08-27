@@ -6,4 +6,5 @@
 
  # Screenshot Desktop
 
- ![Screenshot] (C:\Users\lidya\OneDrive - Stichting Openbaar Primair en Speciaal Onderwijs Leiden\Bureaublad\qr-code-component\qr-code-component\design\desktop-design.jpg)
+ 
+ ![Screenshot](design/desktop-design.jpg)
