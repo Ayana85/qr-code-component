@@ -17,7 +17,7 @@ body {
 }
 .qr-code-content {
     background-color: hsl(0, 0%, 100%);
-    padding: 1.1rem;
+    padding: 1.3rem;
     border-radius: 15px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 400px;
