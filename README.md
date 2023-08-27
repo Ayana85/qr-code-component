@@ -4,4 +4,6 @@
 
  Your feedback and support is important to me to improve my coding skill, please feel free to give me any feedback.
 
- ![Screenshot] (C:\Users\lidya\OneDrive - Stichting Openbaar Primair en Speciaal Onderwijs Leiden\Bureaublad\qr-code-component\qr-code\images\image-qr-code.png)
+ # Screenshot Desktop
+
+ ![Screenshot] (C:\Users\lidya\OneDrive - Stichting Openbaar Primair en Speciaal Onderwijs Leiden\Bureaublad\qr-code-component\qr-code-component\design\desktop-design.jpg)
